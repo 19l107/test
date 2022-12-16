@@ -1,0 +1,7 @@
+Family group ages
+
+Grand father age - 78
+Grand mother age - 75
+Father age - 56
+Mother age - 54
+children age - 20
